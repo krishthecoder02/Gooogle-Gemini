@@ -1,1 +1,1 @@
-# Gooogle-Gemini
+hello i will build this gemini from scratch
